@@ -1,0 +1,21 @@
+{
+  "name": "fix demo",
+  "version": "0.0.1",
+  "engines": {
+    "yarn": "1.13.0"
+  },
+  "private": true,
+  "scripts": {
+    "start": "nodemon -L --exec babel-node ./app.js"
+  },
+  "dependencies": {
+    "fixparser": "^2.7.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.2.2",
+    "@babel/node": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "nodemon": "^1.18.10"
+  }
+}
