@@ -2,7 +2,7 @@
   "name": "fix_demo",
   "version": "0.0.1",
   "engines": {
-    "yarn": "1.13.0"
+    "yarn": "1.22.4"
   },
   "private": true,
   "scripts": {
@@ -16,6 +16,6 @@
     "@babel/core": "^7.2.2",
     "@babel/node": "^7.2.2",
     "@babel/preset-env": "^7.3.1",
-    "nodemon": "^1.18.10"
+    "nodemon": "^2.0.4"
   }
 }
